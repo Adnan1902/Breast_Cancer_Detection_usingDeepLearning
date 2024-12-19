@@ -14,7 +14,7 @@ Neural network implementation for breast cancer classification using TensorFlow 
 ## Installation
 ```bash
 # Clone repository
-git clone https://github.com/saarib2405/Deep_Learning_Breast_Cancer_Classification_Model.git
+git clone https://github.com/Adnan1902/Breast_Cancer_Detection_usingDeepLearning.git
 cd breast-cancer-classifier
 
 # Create virtual environment
